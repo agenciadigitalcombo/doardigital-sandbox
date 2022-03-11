@@ -301,7 +301,7 @@ export default {
         form
     ) {
         console.log(form)
-        let res = await fetch(`https://doardigital.tk/api/upload-img`, {
+        let res = await fetch(`https://doarv2.tk/api/upload-img`, {
 
             method: 'POST',
             mode: 'cors',

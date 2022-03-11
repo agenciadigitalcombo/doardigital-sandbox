@@ -1,5 +1,5 @@
 ###
-POST http://doardigital.tk/api/create-conta-instituicao
+POST https://doarv2.tk/api/create-conta-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -18,7 +18,7 @@ token=string
 &telefone_recebedor=string
 
 ###
-POST http://doardigital.tk/api/update-conta-instituicao
+POST https://doarv2.tk/api/update-conta-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -37,4 +37,4 @@ token=string
 &telefone_recebedor=string
 
 ###
-GET http://doardigital.tk/api/list-conta-instituicao?instituicao_id=int
+GET https://doarv2.tk/api/list-conta-instituicao?instituicao_id=int

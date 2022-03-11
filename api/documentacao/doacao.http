@@ -1,4 +1,4 @@
-POST https://doardigital.tk/api/transacao
+POST https://doarv2.tk/api/transacao
 Content-Type: application/x-www-form-urlencoded
 
 instituicao_id=int
@@ -23,5 +23,5 @@ instituicao_id=int
 &cart_validade=string
 
 ###
-GET https://doardigital.tk/api/list-doacoes?instituicao_id=int
+GET https://doarv2.tk/api/list-doacoes?instituicao_id=int
 Content-Type: application/x-www-form-urlencoded

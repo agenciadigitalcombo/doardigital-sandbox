@@ -1,14 +1,14 @@
-GET http://doardigital.tk/api/instituicao?token=string
+GET https://doarv2.tk/api/instituicao?token=string
 
 ###
 configuracao
-GET http://doardigital.tk/api/instituicao-id?instituicao_id=int
+GET https://doarv2.tk/api/instituicao-id?instituicao_id=int
 
 ###
-GET http://doardigital.tk/api/info-subdomaim?subdomaim=string
+GET https://doarv2.tk/api/info-subdomaim?subdomaim=string
 
 ###
-POST http://doardigital.tk/api/update-instituicao
+POST https://doarv2.tk/api/update-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -20,7 +20,7 @@ token=string
 &telefone=string
 
 ###
-POST http://doardigital.tk/api/configuracao-instituicao
+POST https://doarv2.tk/api/configuracao-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -31,14 +31,14 @@ token=string
 &logo=string
 
 ###
-POST http://doardigital.tk/api/on_off
+POST https://doarv2.tk/api/on_off
 Content-Type: application/x-www-form-urlencoded
 
 token=string
 &instituicao_id=int
 
 ###
-POST http://doardigital.tk/api/create-instituicao
+POST https://doarv2.tk/api/create-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -50,7 +50,7 @@ token=string
 &telefone=string
 
 ###
-POST http://doardigital.tk/api/update-domain-person
+POST https://doarv2.tk/api/update-domain-person
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -60,7 +60,7 @@ token=string
 
 
 ###
-GET http://doardigital.tk/api/subdominio-disponivel?subdomain=string
+GET https://doarv2.tk/api/subdominio-disponivel?subdomain=string
 Content-Type: application/x-www-form-urlencoded
 // criar ou salvar dados bancario 
 
