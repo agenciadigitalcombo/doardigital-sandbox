@@ -1,10 +1,10 @@
-GET https://doarv2.tk/api/list-credencial?token=string
+GET https://agenciadigitalcombo.com.br/api/list-credencial?token=string
 Content-Type: application/x-www-form-urlencoded
 
 
 ###
 
-POST https://doarv2.tk/api/update-credencial
+POST https://agenciadigitalcombo.com.br/api/update-credencial
 Content-Type: application/x-www-form-urlencoded
 
 token=string

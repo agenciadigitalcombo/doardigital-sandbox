@@ -1,5 +1,5 @@
 ###
-POST https://doarv2.tk/api/endereco-instituicao
+POST https://agenciadigitalcombo.com.br/api/endereco-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 id=int

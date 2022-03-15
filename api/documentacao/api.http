@@ -50,20 +50,20 @@ POST http://localhost/v2-doardigital/api/step-update
 }
 
 ###
-GET https://doarv2.tk/api/list-endereco
+GET https://agenciadigitalcombo.com.br/api/list-endereco
 {
     "token": ""
 }
 
 ### 
-GET https://doarv2.tk/api/list-subadm
+GET https://agenciadigitalcombo.com.br/api/list-subadm
 
 {
     "token": "eyJzZWNyZXQiOiIgNjFiNzQ3N2RkOWVmNCIsIm5vbWUiOiJnaWxkZXRlIiwiZW1haWwiOiJnaWxkZXRlQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.d6024749fac75479d40db1611f9555c66c48ab67"
 }
 
 ###
-POST https://doarv2.tk/api/criate-subadm
+POST https://agenciadigitalcombo.com.br/api/criate-subadm
 Content-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY
 
 {
@@ -75,7 +75,7 @@ Content-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY
 }
 
 ###
-POST https://doarv2.tk/api/atualizar-subadm
+POST https://agenciadigitalcombo.com.br/api/atualizar-subadm
 Content-Type: multipart/form-data; boundary=X-INSOMNIA-BOUNDARY
 
 {

@@ -1,4 +1,4 @@
-POST https://doarv2.tk/api/smtp-save
+POST https://agenciadigitalcombo.com.br/api/smtp-save
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -10,5 +10,5 @@ token=string
 &senha=strin
 
 ###
-GET https://doarv2.tk/api/list-smtp?instituicao_id=int
+GET https://agenciadigitalcombo.com.br/api/list-smtp?instituicao_id=int
 Content-Type: application/x-www-form-urlencoded

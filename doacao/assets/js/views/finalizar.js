@@ -714,7 +714,7 @@ export default {
 
 
         let config = (await this.infoSubdomain()).dados_instituicao
-        this.logo = "https://doarv2.tk/api/upload/"+config.logo
+        this.logo = "https://agenciadigitalcombo.com.br/api/upload/"+config.logo
         this.backgroundColor = config.cor
         this.instituicao_id = config.id
     },

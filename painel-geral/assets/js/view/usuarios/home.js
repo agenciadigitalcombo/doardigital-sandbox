@@ -7,7 +7,7 @@ export default {
 	data: function () {
         
 		return {
-			gravatar: 'https://doarv2.tk/api/gravatar?email=brunnocriacoes@gmail.com',
+			gravatar: 'https://agenciadigitalcombo.com.br/api/gravatar?email=brunnocriacoes@gmail.com',
 			nome: null,
 			email: null,
 			senha: null,

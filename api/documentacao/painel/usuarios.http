@@ -1,12 +1,12 @@
-GET https://doarv2.tk/api/instituicao?token=string
+GET https://agenciadigitalcombo.com.br/api/instituicao?token=string
 Content-Type: application/x-www-form-urlencoded
 
 ###
-GET https://doarv2.tk/api/list-credencial?token=string
+GET https://agenciadigitalcombo.com.br/api/list-credencial?token=string
 Content-Type: application/x-www-form-urlencoded
 
 ###
-POST https://doarv2.tk/api/criate-subadm
+POST https://agenciadigitalcombo.com.br/api/criate-subadm
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -18,5 +18,5 @@ token=string
 
 
 ###
-GET https://doarv2.tk/api/list-subadm?token=string
+GET https://agenciadigitalcombo.com.br/api/list-subadm?token=string
 Content-Type: application/x-www-form-urlencoded

@@ -264,7 +264,7 @@ export default {
 	async mounted() {
 		
 		let config = (await this.lisConfiguracao()).dados
-		this.logo = "https://doarv2.tk/api/upload/"+config.logo
+		this.logo = "https://agenciadigitalcombo.com.br/api/upload/"+config.logo
 		this.cor = config.cor
 		this.tags = config.tags,
 		this.descricao_site = config.descricao_site,

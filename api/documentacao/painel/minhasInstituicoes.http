@@ -1,9 +1,9 @@
 ###
-GET https://doarv2.tk/api/instituicao?token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
+GET https://agenciadigitalcombo.com.br/api/instituicao?token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
 Content-Type: application/x-www-form-urlencoded
 
 
-POST https://doarv2.tk/api/create-instituicao
+POST https://agenciadigitalcombo.com.br/api/create-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
@@ -16,16 +16,16 @@ token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTE
 
 ###
 
-GET https://doarv2.tk/api/subdominio-disponivel?subdomaim=gilminas.gm&token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
+GET https://agenciadigitalcombo.com.br/api/subdominio-disponivel?subdomaim=gilminas.gm&token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
 Content-Type: application/x-www-form-urlencoded
 
 ###
-GET https://doarv2.tk/api/info-subdomaim?subdomaim=gilminas.gm&token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
+GET https://agenciadigitalcombo.com.br/api/info-subdomaim?subdomaim=gilminas.gm&token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
 Content-Type: application/x-www-form-urlencoded
 
 ###
 
-POST https://doarv2.tk/api/endereco-instituicao
+POST https://agenciadigitalcombo.com.br/api/endereco-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280
@@ -41,7 +41,7 @@ token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTE
 
 ###
 
-POST https://doarv2.tk/api/create-conta-instituicao
+POST https://agenciadigitalcombo.com.br/api/create-conta-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=string
@@ -62,7 +62,7 @@ token=string
 
 ###
 
-POST https://doarv2.tk/api/on-off-instituicao
+POST https://agenciadigitalcombo.com.br/api/on-off-instituicao
 Content-Type: application/x-www-form-urlencoded
 
 token=eyJzZWNyZXQiOiI2MjEzY2FkNmFiYzgzIiwibm9tZSI6IlZJQ1RPUiBGRVJOQU5ETyBNQUdBTEhBRVMgVkFTQ09OQ0VMT1MiLCJlbWFpbCI6InZpY3RvcmZlcm5hbmRvbWFnQGdtYWlsLmNvbSIsInN1cGVyX2FkbSI6IjAiLCJzdGVwIjoiMSJ9.c5a908ab74f3a6ed8329ef179d4c00e0f4b3f280

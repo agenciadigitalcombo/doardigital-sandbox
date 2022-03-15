@@ -1,3 +1,3 @@
 export default {
-    path: 'https://doarv2.tk/api'
+    path: 'https://agenciadigitalcombo.com.br/api'
 }
